@@ -1,0 +1,27 @@
+﻿生成启动时间为 2016/3/24 9:53:24。
+     1>项目“E:\cProgram\sort\bubble\bubble.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\bubble.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\cProgram\sort\Debug\bubble.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\bubble.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\cProgram\sort\Debug\bubble.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\cProgram\sort\Debug\bubble.lib" /MACHINE:X86 Debug\bubble.exe.embed.manifest.res
+         Debug\bubble.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\bubble.exe.embed.manifest" /manifest Debug\bubble.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         bubble.vcxproj -> E:\cProgram\sort\Debug\bubble.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\bubble.unsuccessfulbuild”。
+         正在对“Debug\bubble.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\cProgram\sort\bubble\bubble.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.23

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bubble", "bubble\bubble.vcxproj", "{D980867C-447F-476C-A48C-7FADECA0CDB5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "select", "select\select.vcxproj", "{6368ADC4-25B8-467F-94AB-683DC758E604}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "list", "list\list.vcxproj", "{A0DA006B-68CA-4E7B-87E9-B26337DE79EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D980867C-447F-476C-A48C-7FADECA0CDB5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D980867C-447F-476C-A48C-7FADECA0CDB5}.Debug|Win32.Build.0 = Debug|Win32
+		{D980867C-447F-476C-A48C-7FADECA0CDB5}.Release|Win32.ActiveCfg = Release|Win32
+		{D980867C-447F-476C-A48C-7FADECA0CDB5}.Release|Win32.Build.0 = Release|Win32
+		{6368ADC4-25B8-467F-94AB-683DC758E604}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6368ADC4-25B8-467F-94AB-683DC758E604}.Debug|Win32.Build.0 = Debug|Win32
+		{6368ADC4-25B8-467F-94AB-683DC758E604}.Release|Win32.ActiveCfg = Release|Win32
+		{6368ADC4-25B8-467F-94AB-683DC758E604}.Release|Win32.Build.0 = Release|Win32
+		{A0DA006B-68CA-4E7B-87E9-B26337DE79EB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A0DA006B-68CA-4E7B-87E9-B26337DE79EB}.Debug|Win32.Build.0 = Debug|Win32
+		{A0DA006B-68CA-4E7B-87E9-B26337DE79EB}.Release|Win32.ActiveCfg = Release|Win32
+		{A0DA006B-68CA-4E7B-87E9-B26337DE79EB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
